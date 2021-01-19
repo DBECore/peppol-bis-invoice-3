@@ -11,3 +11,4 @@ tmp*
 /.project
 vagrant/.vagrant/machines/dev/virtualbox/private_key
 *.xpr
+desktop.ini
